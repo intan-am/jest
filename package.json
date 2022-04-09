@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "supertest": "^6.2.2"
+  }
+}
